@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = chloe.cartron@gmail.com
+	name = Chloe Cartron
